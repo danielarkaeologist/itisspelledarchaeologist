@@ -1,0 +1,23 @@
+{
+  "name": "danielarkaeologist.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  "dev-server": "web-dev-server --noderesolve --open --watch"
+  "start": "npm run dev-server"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielarkaeologist/itisspelledarchaeologist.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielarkaeologist/itisspelledarchaeologist/issues"
+  },
+  "homepage": "https://github.com/danielarkaeologist/itisspelledarchaeologist#readme",
+  "devDependencies": {
+    "@web/dev-server": "^0.4.0"
+  }
+}
